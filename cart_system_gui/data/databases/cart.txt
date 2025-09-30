@@ -1,0 +1,2 @@
+"name"	"price"	"quantity"	"total"
+"油烟机"	"￥3600"	"100"	"￥360000.0"

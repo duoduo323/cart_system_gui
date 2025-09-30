@@ -1,0 +1,5 @@
+"name"	"username"	"password"
+"小明"	"xiaoming"	"111111"
+"小红"	"xiaohong"	"222222"
+"小黄"	"xiaohuang"	"333333"
+"小白"	"xiaobai"	"444444"

@@ -1,0 +1,5 @@
+"name"	"username"	"password"
+"张三"	"zhangsan"	"$2b$12$WZHgRsnrtGZxVp2njXQZWOWmQQH1dAMlYZOQPIBCQqG14FXBc4vXC"
+"李四"	"lisi"	"$2b$12$Lgy8z2.5NE0eQN9jmo/maOJ2CVL6Yio2wQa7bqqNp7ggokvdxCUTW"
+"王五"	"wangwu"	"$2b$12$SiDkNzq2dTkFU5mgx4.GbeNk4lRRJI6Fm00rLhBE9WPXDqdfmYjB6"
+"赵六"	"zhaoliu"	"$2b$12$5bVnvy17CP/FN/6xWHB3puRVjDegTqrHSDifyt81ONcSPCO/.74E6"

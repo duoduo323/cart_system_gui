@@ -1,0 +1,7 @@
+-cart_system_gui
+    -data  数据文件
+    -logic_code 逻辑代码
+    -pyfile ui 转 py 文件
+    -qtfile ui 文件
+    -tool_code 工具函数
+    -main.py 主程序

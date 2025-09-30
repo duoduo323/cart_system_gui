@@ -1,0 +1,72 @@
+2025-09-14 20:07:51,772 - main.py[line:17] - INFO - =================欢迎来到购物车管理系统主界面！=================
+2025-09-14 20:07:59,877 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:07:59,885 - mysql_connect.py[line:197] - INFO - 正在将文件product与数据库建立连接
+2025-09-14 20:07:59,901 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.009秒
+2025-09-14 20:07:59,907 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:07:59,913 - mysql_connect.py[line:197] - INFO - 正在将文件user与数据库建立连接
+2025-09-14 20:07:59,921 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.001秒
+2025-09-14 20:07:59,927 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:07:59,933 - mysql_connect.py[line:197] - INFO - 正在将文件cargo与数据库建立连接
+2025-09-14 20:07:59,941 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.001秒
+2025-09-14 20:07:59,946 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:07:59,953 - mysql_connect.py[line:197] - INFO - 正在将文件cart与数据库建立连接
+2025-09-14 20:07:59,961 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.002秒
+2025-09-14 20:07:59,967 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:07:59,974 - mysql_connect.py[line:197] - INFO - 正在将文件staff与数据库建立连接
+2025-09-14 20:07:59,981 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.002秒
+2025-09-14 20:08:00,081 - startpage.py[line:29] - INFO - 用户进入登录界面
+2025-09-14 20:08:26,665 - login.py[line:71] - INFO - 职工用户xiaoming登录成功！
+2025-09-14 20:08:27,687 - staff2.py[line:29] - INFO - 该职工用户开始购物...
+2025-09-14 20:08:33,243 - shopping2.py[line:82] - INFO - 职工用户正在添加商品到购物车...
+2025-09-14 20:08:33,259 - shopping2.py[line:105] - WARNING - 成功添加商品冰箱到购物车并更新了数据库！
+2025-09-14 20:08:37,896 - shopping2.py[line:153] - WARNING - 成功从购物车中移除商品冰箱并更新了数据库!
+2025-09-14 20:08:47,833 - shopping2.py[line:82] - INFO - 职工用户正在添加商品到购物车...
+2025-09-14 20:08:47,849 - shopping2.py[line:105] - WARNING - 成功添加商品冰箱到购物车并更新了数据库！
+2025-09-14 20:08:54,870 - shopping2.py[line:153] - WARNING - 成功从购物车中移除商品冰箱并更新了数据库!
+2025-09-14 20:09:02,186 - shopping2.py[line:187] - WARNING - 该职工用户结算成功！成功消费￥3600.00元
+2025-09-14 20:09:09,465 - shopping2.py[line:38] - INFO - 该职工用户返回了页面进行操作
+2025-09-14 20:10:04,453 - staff2.py[line:34] - INFO - 该职工用户正在查看采购清单和正在销售的货物...
+2025-09-14 20:10:07,629 - cargomanagement2.py[line:158] - INFO - 该职工用户返回到操作界面
+2025-09-14 20:10:12,419 - staff2.py[line:29] - INFO - 该职工用户开始购物...
+2025-09-14 20:10:14,228 - shopping2.py[line:38] - INFO - 该职工用户返回了页面进行操作
+2025-09-14 20:10:15,605 - staff2.py[line:41] - INFO - 该职工用户返回到主界面
+2025-09-14 20:10:17,139 - startpage.py[line:29] - INFO - 用户进入登录界面
+2025-09-14 20:10:24,701 - login.py[line:58] - INFO - 管理员用户admin登录成功！
+2025-09-14 20:10:29,652 - administrate.py[line:29] - INFO - 管理员开始员工管理操作...
+2025-09-14 20:10:35,615 - staffmanagement.py[line:93] - INFO - 管理员返回到操作界面
+2025-09-14 20:10:36,966 - administrate.py[line:29] - INFO - 管理员开始员工管理操作...
+2025-09-14 20:10:40,184 - staffmanagement.py[line:93] - INFO - 管理员返回到操作界面
+2025-09-14 20:10:41,145 - administrate.py[line:34] - INFO - 管理员开始货物管理操作...
+2025-09-14 20:10:44,225 - cargomanagement.py[line:55] - INFO - 管理员开始往采购清单中添加新商品...
+2025-09-14 20:10:46,561 - new_cargo.py[line:50] - INFO - 管理员返回到货物管理界面
+2025-09-14 20:10:52,608 - cargomanagement.py[line:163] - INFO - 管理员返回到操作界面
+2025-09-14 20:10:56,598 - administrate.py[line:41] - INFO - 管理员返回到主界面
+2025-09-14 20:11:00,457 - startpage.py[line:43] - INFO - 用户确认退出购物车系统！
+2025-09-14 20:11:25,459 - main.py[line:17] - INFO - =================欢迎来到购物车管理系统主界面！=================
+2025-09-14 20:11:28,503 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:11:28,509 - mysql_connect.py[line:197] - INFO - 正在将文件product与数据库建立连接
+2025-09-14 20:11:28,526 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.010秒
+2025-09-14 20:11:28,534 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:11:28,540 - mysql_connect.py[line:197] - INFO - 正在将文件user与数据库建立连接
+2025-09-14 20:11:28,549 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.001秒
+2025-09-14 20:11:28,555 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:11:28,561 - mysql_connect.py[line:197] - INFO - 正在将文件cargo与数据库建立连接
+2025-09-14 20:11:28,570 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.002秒
+2025-09-14 20:11:28,576 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:11:28,583 - mysql_connect.py[line:197] - INFO - 正在将文件cart与数据库建立连接
+2025-09-14 20:11:28,590 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.001秒
+2025-09-14 20:11:28,598 - mysql_connect.py[line:33] - INFO - 初始化数据库连接对象: host=localhost, port=3306, database=spt2507, user=root
+2025-09-14 20:11:28,604 - mysql_connect.py[line:197] - INFO - 正在将文件staff与数据库建立连接
+2025-09-14 20:11:28,612 - mysql_connect.py[line:43] - INFO - 数据库连接成功! 连接耗时: 0.001秒
+2025-09-14 20:11:28,697 - startpage.py[line:29] - INFO - 用户进入登录界面
+2025-09-14 20:11:38,094 - login.py[line:67] - INFO - 普通用户zhangsan登录成功！
+2025-09-14 20:11:39,379 - staff.py[line:32] - INFO - 该普通用户开始购物...
+2025-09-14 20:11:43,802 - shopping.py[line:110] - WARNING - 成功添加商品冰箱到购物车并更新了数据库！
+2025-09-14 20:11:47,755 - shopping.py[line:157] - WARNING - 成功从购物车中移除商品冰箱并更新了数据库!
+2025-09-14 20:11:53,391 - shopping.py[line:110] - WARNING - 成功添加商品冰箱到购物车并更新了数据库！
+2025-09-14 20:11:56,148 - shopping.py[line:163] - INFO - 该普通用户开始结算...
+2025-09-14 20:11:56,167 - shopping.py[line:157] - WARNING - 成功从购物车中移除商品冰箱并更新了数据库!
+2025-09-14 20:12:01,448 - shopping.py[line:194] - WARNING - 该普通用户结算成功！成功消费￥3600.00元
+2025-09-14 20:13:04,697 - shopping.py[line:42] - INFO - 该普通用户返回到操作界面
+2025-09-14 20:13:06,924 - staff.py[line:43] - INFO - 该普通用户返回到主界面
+2025-09-14 20:13:10,996 - startpage.py[line:43] - INFO - 用户退出了购物车系统！

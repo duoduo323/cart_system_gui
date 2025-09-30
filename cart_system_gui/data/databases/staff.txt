@@ -1,0 +1,5 @@
+"name"	"username"	"password"
+"小明"	"xiaoming"	"$2b$12$4tgGB9Boh.sGU/QE6SHbd.lxjk7U5Hn.OnNgFQQs7Vg1oYXTWbrxi"
+"小红"	"xiaohong"	"$2b$12$AnVpWtJevvU3GYtaCz2SwuOG2t1xyDfgeEgxbAU8GcmhbHbTboHWO"
+"小黄"	"xiaohuang"	"$2b$12$tqoabUCMgHU5xTvh1PNw8.UWdya1DM4ugrlay1IHozcgFM4A0CnIW"
+"小白"	"xiaobai"	"$2b$12$jlKyfdO2wbrN7PsT.UHeEOm.9RSOwyK4oC7Hn/pJjLiZJePLSaqWC"
